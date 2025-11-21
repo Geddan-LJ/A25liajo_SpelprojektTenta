@@ -11,14 +11,6 @@ public class PlayerHealth : MonoBehaviour
     private int maxPlayerHealth;
     private int playerHealth = 3;
 
-    private void Start()
-    {
-        for (int i = 0; i < healthImages.Count; i++)
-        {
-            healthImages[i].gameObject.SetActive(true);
-        }
-    }
-
     private void OnCollisionEnter2D(Collision2D other)
     {
         if (other.gameObject.CompareTag("Harmfull"))

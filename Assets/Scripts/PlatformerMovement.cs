@@ -85,6 +85,17 @@ public class PlatformerMovement : MonoBehaviour
             else if (moveInput.x < -0.01f)
                 spriteRenderer.flipX = true;
         }
+        
+        animator.SetBool("Grounded", isGrounded);
+
+        if (rb.linearVelocity.x != 0)
+        {
+            animator.SetFloat("SpeedX", 1);
+        }
+        else
+        {
+            animator.SetFloat("SpeedX", -1);
+        }
     }
 
     private void FixedUpdate()
