@@ -1,5 +1,6 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
+using TMPro;
 
             /////////////// INFORMATION ///////////////
 // This script automatically adds a Rigidbody2D, CapsuleCollider2D and CircleCollider2D component in the inspector.
@@ -31,11 +32,16 @@ public class PlatformerMovement : MonoBehaviour
     private bool wasGrounded;
     private bool isGrounded;
 
+    [SerializeField] private TextMeshProUGUI collectablesCollectedText;
+    private int collectablesCollected = 0;
+    
     [SerializeField] private Animator animator;
     
     void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
+        
+        collectablesCollectedText.text = collectablesCollected.ToString() + " collectables collected";
         
         groundCheckCollider = GetComponent<CircleCollider2D>();
         groundCheckCollider.isTrigger = true;
@@ -156,6 +162,13 @@ public class PlatformerMovement : MonoBehaviour
         return new Vector2(input.x * maxSpeed, velocity.y);
     }
 
+    public void OnCollected()
+    {
+        collectablesCollected++;
+        
+        collectablesCollectedText.text = collectablesCollected.ToString() + " collectables collected";
+    }
+    
     // Handle Move-input
     // This method can be triggered through the UnityEvent in PlayerInput
     public void OnMove(InputAction.CallbackContext context)

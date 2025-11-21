@@ -20,6 +20,20 @@ public class GoalBehaviour : MonoBehaviour
         particles = GetComponent<ParticleSystem>();
     }
 
+    private void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.R))
+        {
+            GameObject football = GameObject.Find("Football(Clone)");
+
+            if (football != null)
+            {
+                Destroy(football);
+                Instantiate(footballPrefab, footballSpawnPos.position, Quaternion.identity);
+            }
+        }
+    }
+
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.gameObject.CompareTag("Football"))
