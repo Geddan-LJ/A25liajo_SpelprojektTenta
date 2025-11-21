@@ -13,6 +13,13 @@ public class GoalBehaviour : MonoBehaviour
     
     private bool finished = false;
 
+    ParticleSystem particles;
+
+    private void Start()
+    {
+        particles = GetComponent<ParticleSystem>();
+    }
+
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.gameObject.CompareTag("Football"))
@@ -25,6 +32,8 @@ public class GoalBehaviour : MonoBehaviour
             if (amountOfScores == 3 && !finished)
             {
                 finished = true;
+                
+                particles.Play();
                 
                 pathBlockerObj.SetActive(false);
             }
