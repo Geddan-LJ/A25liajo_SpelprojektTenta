@@ -147,7 +147,7 @@ ScriptedImporter:
   spriteSheetImportData:
   - name: PropsAngelOfJustice_0
     originalName: 
-    pivot: {x: 0, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 0
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -168,7 +168,7 @@ ScriptedImporter:
     uvTransform: {x: 0, y: 0}
   - name: PropsAngelOfJustice_1
     originalName: 
-    pivot: {x: 0, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 0
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -189,7 +189,7 @@ ScriptedImporter:
     uvTransform: {x: 0, y: 0}
   - name: PropsAngelOfJustice_2
     originalName: 
-    pivot: {x: 0, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 0
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -210,7 +210,7 @@ ScriptedImporter:
     uvTransform: {x: 0, y: 0}
   - name: PropsAngelOfJustice_3
     originalName: 
-    pivot: {x: 0, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 0
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -231,7 +231,7 @@ ScriptedImporter:
     uvTransform: {x: 0, y: 0}
   - name: PropsAngelOfJustice_4
     originalName: 
-    pivot: {x: 0, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 0
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -252,7 +252,7 @@ ScriptedImporter:
     uvTransform: {x: 0, y: 0}
   - name: PropsAngelOfJustice_5
     originalName: 
-    pivot: {x: 0, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 0
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -273,7 +273,7 @@ ScriptedImporter:
     uvTransform: {x: 0, y: 0}
   - name: PropsAngelOfJustice_6
     originalName: 
-    pivot: {x: 0, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 0
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -294,7 +294,7 @@ ScriptedImporter:
     uvTransform: {x: 0, y: 0}
   - name: PropsAngelOfJustice_7
     originalName: 
-    pivot: {x: 0, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 0
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -315,7 +315,7 @@ ScriptedImporter:
     uvTransform: {x: 0, y: 0}
   - name: PropsAngelOfJustice_8
     originalName: 
-    pivot: {x: 0, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 0
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -336,7 +336,7 @@ ScriptedImporter:
     uvTransform: {x: 0, y: 0}
   - name: PropsAngelOfJustice_9
     originalName: 
-    pivot: {x: 0, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 0
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -357,7 +357,7 @@ ScriptedImporter:
     uvTransform: {x: 0, y: 0}
   - name: PropsAngelOfJustice_10
     originalName: 
-    pivot: {x: 0, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 0
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -378,7 +378,7 @@ ScriptedImporter:
     uvTransform: {x: 0, y: 0}
   - name: PropsAngelOfJustice_11
     originalName: 
-    pivot: {x: 0, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 0
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -399,7 +399,7 @@ ScriptedImporter:
     uvTransform: {x: 0, y: 0}
   - name: PropsAngelOfJustice_12
     originalName: 
-    pivot: {x: 0, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 0
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -420,7 +420,7 @@ ScriptedImporter:
     uvTransform: {x: 0, y: 0}
   - name: PropsAngelOfJustice_13
     originalName: 
-    pivot: {x: 0, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 0
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -441,7 +441,7 @@ ScriptedImporter:
     uvTransform: {x: 0, y: 0}
   - name: PropsAngelOfJustice_14
     originalName: 
-    pivot: {x: 0, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 0
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -462,7 +462,7 @@ ScriptedImporter:
     uvTransform: {x: 0, y: 0}
   - name: PropsAngelOfJustice_15
     originalName: 
-    pivot: {x: 0, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 0
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -483,7 +483,7 @@ ScriptedImporter:
     uvTransform: {x: 0, y: 0}
   - name: PropsAngelOfJustice_16
     originalName: 
-    pivot: {x: 0, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 0
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -504,7 +504,7 @@ ScriptedImporter:
     uvTransform: {x: 0, y: 0}
   - name: PropsAngelOfJustice_17
     originalName: 
-    pivot: {x: 0, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 0
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -525,7 +525,7 @@ ScriptedImporter:
     uvTransform: {x: 0, y: 0}
   - name: PropsAngelOfJustice_18
     originalName: 
-    pivot: {x: 0, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 0
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -546,7 +546,7 @@ ScriptedImporter:
     uvTransform: {x: 0, y: 0}
   - name: PropsAngelOfJustice_19
     originalName: 
-    pivot: {x: 0, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 0
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -567,7 +567,7 @@ ScriptedImporter:
     uvTransform: {x: 0, y: 0}
   - name: PropsAngelOfJustice_20
     originalName: 
-    pivot: {x: 0, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 0
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -588,7 +588,7 @@ ScriptedImporter:
     uvTransform: {x: 0, y: 0}
   - name: PropsAngelOfJustice_21
     originalName: 
-    pivot: {x: 0, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 0
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -609,7 +609,7 @@ ScriptedImporter:
     uvTransform: {x: 0, y: 0}
   - name: PropsAngelOfJustice_22
     originalName: 
-    pivot: {x: 0, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 0
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -630,7 +630,7 @@ ScriptedImporter:
     uvTransform: {x: 0, y: 0}
   - name: PropsAngelOfJustice_23
     originalName: 
-    pivot: {x: 0, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 0
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -651,16 +651,16 @@ ScriptedImporter:
     uvTransform: {x: 0, y: 0}
   - name: PropsAngelOfJustice_24
     originalName: 
-    pivot: {x: 0, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 0
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
     rect:
       serializedVersion: 2
       x: 666
-      y: 494
+      y: 582
       width: 94
-      height: 164
+      height: 76
     spriteID: c16ab0b4a7df4484dbfea92b80cfb1c3
     spriteBone: []
     spriteOutline: []
@@ -672,7 +672,7 @@ ScriptedImporter:
     uvTransform: {x: 0, y: 0}
   - name: PropsAngelOfJustice_25
     originalName: 
-    pivot: {x: 0, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 0
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -693,7 +693,7 @@ ScriptedImporter:
     uvTransform: {x: 0, y: 0}
   - name: PropsAngelOfJustice_26
     originalName: 
-    pivot: {x: 0, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 0
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -714,7 +714,7 @@ ScriptedImporter:
     uvTransform: {x: 0, y: 0}
   - name: PropsAngelOfJustice_27
     originalName: 
-    pivot: {x: 0, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 0
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -735,7 +735,7 @@ ScriptedImporter:
     uvTransform: {x: 0, y: 0}
   - name: PropsAngelOfJustice_28
     originalName: 
-    pivot: {x: 0, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 0
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -756,7 +756,7 @@ ScriptedImporter:
     uvTransform: {x: 0, y: 0}
   - name: PropsAngelOfJustice_29
     originalName: 
-    pivot: {x: 0, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 0
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -777,7 +777,7 @@ ScriptedImporter:
     uvTransform: {x: 0, y: 0}
   - name: PropsAngelOfJustice_30
     originalName: 
-    pivot: {x: 0, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 0
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -798,7 +798,7 @@ ScriptedImporter:
     uvTransform: {x: 0, y: 0}
   - name: PropsAngelOfJustice_31
     originalName: 
-    pivot: {x: 0, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 0
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -819,7 +819,7 @@ ScriptedImporter:
     uvTransform: {x: 0, y: 0}
   - name: PropsAngelOfJustice_32
     originalName: 
-    pivot: {x: 0, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 0
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -840,7 +840,7 @@ ScriptedImporter:
     uvTransform: {x: 0, y: 0}
   - name: PropsAngelOfJustice_33
     originalName: 
-    pivot: {x: 0, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 0
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -861,7 +861,7 @@ ScriptedImporter:
     uvTransform: {x: 0, y: 0}
   - name: PropsAngelOfJustice_34
     originalName: 
-    pivot: {x: 0, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 0
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -882,7 +882,7 @@ ScriptedImporter:
     uvTransform: {x: 0, y: 0}
   - name: PropsAngelOfJustice_35
     originalName: 
-    pivot: {x: 0, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 0
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -903,7 +903,7 @@ ScriptedImporter:
     uvTransform: {x: 0, y: 0}
   - name: PropsAngelOfJustice_36
     originalName: 
-    pivot: {x: 0, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 0
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -924,7 +924,7 @@ ScriptedImporter:
     uvTransform: {x: 0, y: 0}
   - name: PropsAngelOfJustice_37
     originalName: 
-    pivot: {x: 0, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 0
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -945,7 +945,7 @@ ScriptedImporter:
     uvTransform: {x: 0, y: 0}
   - name: PropsAngelOfJustice_38
     originalName: 
-    pivot: {x: 0, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 0
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -966,7 +966,7 @@ ScriptedImporter:
     uvTransform: {x: 0, y: 0}
   - name: PropsAngelOfJustice_39
     originalName: 
-    pivot: {x: 0, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 0
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -987,7 +987,7 @@ ScriptedImporter:
     uvTransform: {x: 0, y: 0}
   - name: PropsAngelOfJustice_40
     originalName: 
-    pivot: {x: 0, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 0
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -1008,7 +1008,7 @@ ScriptedImporter:
     uvTransform: {x: 0, y: 0}
   - name: PropsAngelOfJustice_41
     originalName: 
-    pivot: {x: 0, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 0
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -1029,7 +1029,7 @@ ScriptedImporter:
     uvTransform: {x: 0, y: 0}
   - name: PropsAngelOfJustice_42
     originalName: 
-    pivot: {x: 0, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 0
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -1050,7 +1050,7 @@ ScriptedImporter:
     uvTransform: {x: 0, y: 0}
   - name: PropsAngelOfJustice_43
     originalName: 
-    pivot: {x: 0, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 0
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -1071,7 +1071,7 @@ ScriptedImporter:
     uvTransform: {x: 0, y: 0}
   - name: PropsAngelOfJustice_44
     originalName: 
-    pivot: {x: 0, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 0
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -1092,7 +1092,7 @@ ScriptedImporter:
     uvTransform: {x: 0, y: 0}
   - name: PropsAngelOfJustice_45
     originalName: 
-    pivot: {x: 0, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 0
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -1113,7 +1113,7 @@ ScriptedImporter:
     uvTransform: {x: 0, y: 0}
   - name: PropsAngelOfJustice_46
     originalName: 
-    pivot: {x: 0, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 0
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -1134,7 +1134,7 @@ ScriptedImporter:
     uvTransform: {x: 0, y: 0}
   - name: PropsAngelOfJustice_47
     originalName: 
-    pivot: {x: 0, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 0
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -1155,7 +1155,7 @@ ScriptedImporter:
     uvTransform: {x: 0, y: 0}
   - name: PropsAngelOfJustice_48
     originalName: 
-    pivot: {x: 0, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 0
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -1176,7 +1176,7 @@ ScriptedImporter:
     uvTransform: {x: 0, y: 0}
   - name: PropsAngelOfJustice_49
     originalName: 
-    pivot: {x: 0, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 0
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -1197,7 +1197,7 @@ ScriptedImporter:
     uvTransform: {x: 0, y: 0}
   - name: PropsAngelOfJustice_50
     originalName: 
-    pivot: {x: 0, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 0
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -1218,7 +1218,7 @@ ScriptedImporter:
     uvTransform: {x: 0, y: 0}
   - name: PropsAngelOfJustice_51
     originalName: 
-    pivot: {x: 0, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 0
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -1239,7 +1239,7 @@ ScriptedImporter:
     uvTransform: {x: 0, y: 0}
   - name: PropsAngelOfJustice_52
     originalName: 
-    pivot: {x: 0, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 0
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
